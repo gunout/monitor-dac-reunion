@@ -24,6 +24,11 @@
 
 ---
 
+## SCREENSHOTS
+
+<img width="1658" height="808" alt="Screenshot 2026-10-13 at 21-56-22 🇫🇷 Réunion Culture DAC Monitor — Expert v3" src="https://github.com/user-attachments/assets/c5d1c074-a04d-4006-a939-71d23300c898" />
+
+
 ## 📖 Présentation
 
 **Monitor DAC Réunion** est un tableau de bord **tout-en-un**, **100 % local** et **sans API key**, qui permet de visualiser, analyser et suivre en temps réel :
